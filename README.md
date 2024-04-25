@@ -29,15 +29,19 @@ This script provides an interface to access and query the `classicmodels` databa
 To use this script, execute it from a command line. Ensure Python and required packages (`mysql-connector-python`) are installed.
 
 1. Start the script:
-```bash python classicmodels_script.py```
-2. Follow the on-screen prompts to log in and select an option from the menu.
+```bash
+python classicmodels_script.py
+```
+3. Follow the on-screen prompts to log in and select an option from the menu.
 
 ## Installation
 
 ### Requirements
 - Python 3.x
 - mysql-connector-python
-```bash pip install mysql-connector-python```
+```bash
+pip install mysql-connector-python
+```
 
 
 ### Setup
